@@ -1,0 +1,36 @@
+body {
+    background: url(bg.jpg);
+    color: yellowgreen;
+    background-size: auto;
+    background-repeat: no-repeat;
+}
+
+table {
+    background: rgba(0, 0, 0, 0.6);
+    border: 2px solid blue;
+    font-size: 20px;
+    text-align: center;
+}
+
+form {
+    background: rgba(0, 0, 0, 0.6);
+    width: 500px;
+    border: 2px solid blue;
+}
+
+aside {
+    background: rgba(0, 0, 0, 0.6);
+    float: right;
+    height: 200px;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    width: 170px;
+    display: block;
+    background: orange;
+    color: blue;
+    text-align: center;
+    font-size: 20px;
+}
